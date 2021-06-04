@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+Learning Objectives
 
-You can use the [editor on GitHub](https://github.com/gtnq/cit281-p4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+After completing this project, you will:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Gain experience interpreting functional descriptions and specifications to complete an assignment
 
-### Markdown
+Gain experience breaking a project into manageable components
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Gain experience writing and executing non-web server Node.js JavaScript code using VSCode
 
-```markdown
-Syntax highlighted code block
+Practice creating and using code modules
 
-# Header 1
-## Header 2
-### Header 3
+Practice using modern JavaScript syntax
 
-- Bulleted
-- List
+Gain experience writing and executing Node.js REST API server using VSCode
 
-1. Numbered
-2. List
+Gain experience using Fastify with the GET verb, routes, and route parameters
 
-**Bold** and _Italic_ and `Code` text
+Gain experience working with static data
 
-[Link](url) and ![Image](src)
-```
+Gain experience testing code module without using a web server
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Gain experience using Postman to test web server routes
 
-### Jekyll Themes
+Gain experience working with JSON
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gtnq/cit281-p4/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Extra credit: Gain experience using Fastify with POST, PUT, and DELETE verbs
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+Overview
+
+You will be creating a REST API that works with a "data" source of questions and answers. You will create all of the code to work with the data source using a code module, and test the code module code using provided testing code. You will also create a Node.js REST API to handle the GET verb. 
+
+Important: The required elements of this project took less than two hours to code, so do not be overwhelmed by the length of the project. Much of the length is devoted to helping you test your code, and to the extra credit opportunities.
+
+Extra credit: This project has many extra credit opportunities (40 points!); however, you must attempt all required elements before any extra credit points will be awarded.
+
+Deep clone of the data in the getQuestionsAnswers() function.
+
+Handling potential bad or missing data in the REST API calls when coding the code module functions.
+
+Coding POST, PUT, and DELETE code module and REST API code.
+
+Tip: You should continue to use git to track completed versions of your code.
